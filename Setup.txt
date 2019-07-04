@@ -1,0 +1,14 @@
+- intellij build code and start local server 
+    - install jdk(8)
+        - install tomcat
+        - setup start command
+- terminal
+    - install terminator 
+        - https://medium.com/@bhupathy/install-terminator-on-windows-with-wsl-2826591d2156
+        (x410 required, `apt-get install dbus-x11` may required)
+    - install zsh, oh-myzsh (https://twasa.ml/post/wsl/)
+        - add this alias https://gist.github.com/tonthanhhung/f95dd9e3c5467f139cdf5a33b6922751
+    - install mvn, java, build project need when ready ?
+        - https://cepa.io/2018/02/20/linuxizing-your-windows-pc-part2/#java
+    - install npm, yarn
+    
